@@ -1,6 +1,8 @@
 # Hi, I am Cristina!
 
-Software engineer dedicated to enhancing and innovating the web experience.
+A Software Engineer who loves diving into both front-end and back-end web tech.
+Whether it's crafting sleek UIs or optimizing server-side magic, I'm all about building nice stuff.
+Open-source fan. Always happy to contribute and help shape a smarter, more efficient web.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/crisperpo.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristina-restrepo-lopez) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cristinarestrepo) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/crisperpo) 
